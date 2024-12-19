@@ -6,4 +6,7 @@ public class A
   {
 	System.out.println("welcome");
 }
+	public void m1()
+	{
+	}
 }
